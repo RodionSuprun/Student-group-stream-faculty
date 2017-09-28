@@ -1,0 +1,10 @@
+D:\Student RODION\OOP\obj\Debug\netcoreapp2.0\OOP.csproj.CoreCompileInputs.cache
+D:\Student RODION\OOP\obj\Debug\netcoreapp2.0\OOP.AssemblyInfoInputs.cache
+D:\Student RODION\OOP\obj\Debug\netcoreapp2.0\OOP.AssemblyInfo.cs
+D:\Student RODION\OOP\bin\Debug\netcoreapp2.0\OOP.deps.json
+D:\Student RODION\OOP\bin\Debug\netcoreapp2.0\OOP.runtimeconfig.json
+D:\Student RODION\OOP\bin\Debug\netcoreapp2.0\OOP.runtimeconfig.dev.json
+D:\Student RODION\OOP\bin\Debug\netcoreapp2.0\OOP.dll
+D:\Student RODION\OOP\bin\Debug\netcoreapp2.0\OOP.pdb
+D:\Student RODION\OOP\obj\Debug\netcoreapp2.0\OOP.dll
+D:\Student RODION\OOP\obj\Debug\netcoreapp2.0\OOP.pdb
